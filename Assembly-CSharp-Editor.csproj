@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{EA8D82C3-10EB-5063-5C84-89843DBE42A6}</ProjectGuid>
+	<ProjectGuid>{81B838EA-A875-39CB-BC65-6BFE1A775A70}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -80,7 +80,7 @@
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="JMOAssets">
- <HintPath>D:/Users/Nick/Documents/Click to Play/FinalVersion/FinalVersion/Assets/jmo assets/Editor/JMOAssets.dll</HintPath>
+ <HintPath>D:/Users/Nick/Documents/GitHub/Click To Play/Assets/jmo assets/Editor/JMOAssets.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -118,11 +118,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{99EB9EE2-87B2-2706-1800-CB32EA56B154}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{BFBB4966-6485-5CCD-E6AC-5801C96C368F}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{526624BA-5C01-88F5-F391-A722187BB74F}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+      <Project>{DEB19DAD-456F-6B7E-EDC9-FB97ACC698A7}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{5CF2E6A5-EE8F-CBBC-59C3-8727B871BC5B}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{406D963C-EF4C-FCF3-B358-61BB6BD4A02C}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

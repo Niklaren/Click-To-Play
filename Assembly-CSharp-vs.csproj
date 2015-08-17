@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{5CF2E6A5-EE8F-CBBC-59C3-8727B871BC5B}</ProjectGuid>
+	<ProjectGuid>{406D963C-EF4C-FCF3-B358-61BB6BD4A02C}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -119,7 +119,7 @@
      <None Include="assets\jmo assets\cartoon fx\CartoonFX Readme.txt" />
      <None Include="assets\Fonts\3D Text Shader.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>D:/Users/Nick/Documents/Click to Play/FinalVersion/FinalVersion/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>D:/Users/Nick/Documents/GitHub/Click To Play/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -130,7 +130,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
-      <Project>{99EB9EE2-87B2-2706-1800-CB32EA56B154}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+      <Project>{BFBB4966-6485-5CCD-E6AC-5801C96C368F}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
