@@ -1,0 +1,77 @@
+Initialize engine version: 4.6.0f1 (8b19a19f0c27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x679a)
+    Vendor:   ATI
+    VRAM:     3054 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Nick's Click bug fixes etc\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Nick's Click bug fixes etc\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Nick's Click bug fixes etc\Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Nick's Click bug fixes etc\Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Nick's Click bug fixes etc\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Nick's Click bug fixes etc\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Nick's Click bug fixes etc\Build_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Nick's Click bug fixes etc\Build_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Nick's Click bug fixes etc\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Nick's Click bug fixes etc\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+desktop: 1776x1000 59Hz; virtual: 3216x1198 at -1440,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Nick's Click bug fixes etc\Build_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+UnloadTime: 0.615992 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2233.
+Total: 1.721578 ms (FindLiveObjects: 0.323515 ms CreateObjectMapping: 0.069119 ms MarkObjects: 0.508793 ms  DeleteObjects: 0.092478 ms)
+
+Platform assembly: D:\Nick's Click bug fixes etc\Build_Data\Managed\System.dll (this message is harmless)
+AngleChange
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+AngleChange
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+AngleChange
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+AngleChange
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+AngleChange
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+try
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+tween1dun
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+try
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+here
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+AngleChange
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 12.676641 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 221.
+Total: 10.311551 ms (FindLiveObjects: 0.029759 ms CreateObjectMapping: 0.030079 ms MarkObjects: 0.142078 ms  DeleteObjects: 8.736210 ms)
+

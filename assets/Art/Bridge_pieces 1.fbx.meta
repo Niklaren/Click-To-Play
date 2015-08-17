@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 7d6e95581eb04ee4f8da2d83cf12abc1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube25
+    100004: pCube26
+    100006: pCube27
+    100008: pCube28
+    100010: pCube29
+    100012: pCube30
+    100014: Plank_001
+    100016: Plank_002
+    100018: Plank_003
+    100020: Plank_004
+    100022: Plank_005
+    100024: Plank_006
+    100026: Rope
+    100028: transform22
+    100030: transform23
+    100032: transform24
+    100034: transform25
+    100036: transform26
+    100038: transform27
+    400000: //RootNode
+    400002: pCube25
+    400004: pCube26
+    400006: pCube27
+    400008: pCube28
+    400010: pCube29
+    400012: pCube30
+    400014: Plank_001
+    400016: Plank_002
+    400018: Plank_003
+    400020: Plank_004
+    400022: Plank_005
+    400024: Plank_006
+    400026: Rope
+    400028: transform22
+    400030: transform23
+    400032: transform24
+    400034: transform25
+    400036: transform26
+    400038: transform27
+    2300000: Plank_001
+    2300002: Plank_002
+    2300004: Plank_003
+    2300006: Plank_004
+    2300008: Plank_005
+    2300010: Plank_006
+    2300012: Rope
+    2300014: transform22
+    2300016: transform23
+    2300018: transform24
+    2300020: transform25
+    2300022: transform26
+    2300024: transform27
+    3300000: Plank_001
+    3300002: Plank_002
+    3300004: Plank_003
+    3300006: Plank_004
+    3300008: Plank_005
+    3300010: Plank_006
+    3300012: Rope
+    3300014: transform22
+    3300016: transform23
+    3300018: transform24
+    3300020: transform25
+    3300022: transform26
+    3300024: transform27
+    4300000: Plank_004
+    4300002: Plank_003
+    4300004: Plank_005
+    4300006: Plank_006
+    4300008: Plank_002
+    4300010: Plank_001
+    4300012: transform23
+    4300014: transform22
+    4300016: transform24
+    4300018: transform25
+    4300020: transform27
+    4300022: transform26
+    4300024: Rope
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
